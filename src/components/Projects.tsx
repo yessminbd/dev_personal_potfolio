@@ -39,7 +39,7 @@ const projectsData = [
             "Professional web & mobile development agency site with a strong focus on modern, elegant, and fully responsive front-end interfaces. Offers custom solutions tailored to business needs with an optimized UX across all devices.",
         technologies: ["React", "Node.js", "MongoDB", "Express.js", "TailwindCSS"],
         image: webgenius,
-        link: "https://webgenius-beta.vercel.app/webgenius/home",
+        link: "https://webgenius-beta.vercel.app/",
         accent: "var(--color-primary)",
     },
     
